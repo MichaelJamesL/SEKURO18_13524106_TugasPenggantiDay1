@@ -1,5 +1,7 @@
+# SEKURO18_13524106_TugasPenggantiDay1
 ## Repository Structure
 ### Workspace Filetree (Level 2 Depth)
+```
 .
 ├── build
 │   ├── 13524106_Shopee
@@ -36,8 +38,10 @@
     └── 13524106_Shopee
 
 19 directories, 14 files
+```
 
 ### Package Filetree
+```
 .
 ├── CMakeLists.txt
 ├── include
@@ -50,7 +54,11 @@
     └── subscriber.cpp
 
 3 directories, 6 files
-
+```
 
 ## Result Screenshot
 ![Result Screenshot](image.png)
+
+|Name                |  NIM     |
+|--------------------|----------|
+|Michael James Liman | 13524106 | 
